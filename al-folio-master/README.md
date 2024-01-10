@@ -1,30 +1,30 @@
-# al-folio
+# home
 
 <div align="center">
 
-[![Preview](assets/img/readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+[![Preview](assets/img/readme_preview/home-preview.png)](https://allisonfranco.github.io/home/)
 
 **A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
 
 ---
 
-[![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
+[![deploy](https://github.com/allisonfranco/home/actions/workflows/deploy.yml/badge.svg)](https://github.com/allisonfranco/home/actions/workflows/deploy.yml)
 [![Maintainers](https://img.shields.io/badge/maintainers-4-success.svg)](#maintainers)
-[![GitHub contributors](https://img.shields.io/github/contributors/alshedivat/al-folio.svg)](https://github.com/alshedivat/al-folio/graphs/contributors/)
-[![Docker Image Version](https://img.shields.io/docker/v/amirpourmand/al-folio?sort=semver&label=docker%20image&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
-[![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
+[![GitHub contributors](https://img.shields.io/github/contributors/allisonfranco/home.svg)](https://github.com/allisonfranco/home/graphs/contributors/)
+[![Docker Image Version](https://img.shields.io/docker/v/amirpourmand/home?sort=semver&label=docker%20image&color=blueviolet)](https://hub.docker.com/r/amirpourmand/home)
+[![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/home?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/home)
+[![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/home?color=blueviolet)](https://hub.docker.com/r/amirpourmand/home)
 
-[![GitHub release](https://img.shields.io/github/v/release/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/alshedivat/al-folio)](https://github.com/alshedivat/al-folio)
-[![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
+[![GitHub release](https://img.shields.io/github/v/release/allisonfranco/home)](https://github.com/allisonfranco/home/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/allisonfranco/home?color=blue)](https://github.com/allisonfranco/home/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/allisonfranco/home)](https://github.com/allisonfranco/home)
+[![GitHub forks](https://img.shields.io/github/forks/allisonfranco/home)](https://github.com/allisonfranco/home/fork)
 
 </div>
 
 ## User community
 
-The vibrant community of **al-folio** users is growing!
+The vibrant community of **home** users is growing!
 Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
 Check out the community webpages below.
 Feel free to add your own page(s) by sending a PR.
@@ -34,7 +34,7 @@ Feel free to add your own page(s) by sending a PR.
 <td>Academics</td>
 <td>
 <a href="https://martinbulla.github.io" target="_blank">★</a>
-<a href="https://maruan.alshedivat.com" target="_blank">★</a>
+<a href="https://maruan.allisonfranco.com" target="_blank">★</a>
 <a href="https://www.cs.columbia.edu/~chen1ru/" target="_blank">★</a>
 <a href="https://maithraraghu.com" target="_blank">★</a>
 <a href="https://platanios.org" target="_blank">★</a>
@@ -172,11 +172,11 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 
 ## Lighthouse PageSpeed Insights
 
-[![Google PageSpeed](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/pagespeed.svg)](https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=desktop)
+[![Google PageSpeed](https://raw.githubusercontent.com/allisonfranco/home/master/assets/img/pagespeed.svg)](https://pagespeed.web.dev/report?url=https%3A%2F%2Fallisonfranco.github.io%2Fhome%2F&form_factor=desktop)
 
 ## Table Of Contents
 
-- [al-folio](#al-folio)
+- [home](#home)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
   - [Table Of Contents](#table-of-contents)
@@ -236,7 +236,7 @@ There are currently 2 different ways of generating the CV page content. The firs
 
 What this means is, if there is no resume data defined in [_config.yml](_config.yml) and loaded via a json file, it will load the contents of [_data/cv.yml](_data/cv.yml) as fallback.
 
-[![CV Preview](assets/img/readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
+[![CV Preview](assets/img/readme_preview/cv.png)](https://allisonfranco.github.io/home/cv/)
 
 ---
 
@@ -244,7 +244,7 @@ What this means is, if there is no resume data defined in [_config.yml](_config.
 
 You can create a people page if you want to feature more than one person. Each person can have its own short bio, profile picture, and you can also set if every person will appear at the same or opposite sides.
 
-[![People Preview](assets/img/readme_preview/people.png)](https://alshedivat.github.io/al-folio/people/)
+[![People Preview](assets/img/readme_preview/people.png)](https://allisonfranco.github.io/home/people/)
 
 ---
 
@@ -254,7 +254,7 @@ Your publications' page is generated automatically from your BibTex bibliography
 
 You can add extra information to a publication, like a PDF file in the [assets/pdf/](assets/pdf/) directory and add the path to the PDF file in the BibTeX entry with the `pdf` field. Some of the supported fields are: `abstract`, `altmetric`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, `pdf`, `pmid`, `poster`, `slides`, `supp`, `video`, and `website`.
 
-[![Publications Preview](assets/img/readme_preview/publications.png)](https://alshedivat.github.io/al-folio/publications/)
+[![Publications Preview](assets/img/readme_preview/publications.png)](https://allisonfranco.github.io/home/publications/)
 
 ---
 
@@ -262,7 +262,7 @@ You can add extra information to a publication, like a PDF file in the [assets/p
 
 This Jekyll theme implements `collections` to let you break up your work into categories. The theme comes with two default collections: `news` and `projects`. Items from the `news` collection are automatically displayed on the home page. Items from the `projects` collection are displayed on a responsive grid on projects page.
 
-[![Projects Preview](assets/img/readme_preview/projects.png)](https://alshedivat.github.io/al-folio/projects/)
+[![Projects Preview](assets/img/readme_preview/projects.png)](https://allisonfranco.github.io/home/projects/)
 
 You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the [_config.yml](_config.yml) file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
 
@@ -270,32 +270,32 @@ You can easily create your own collections, apps, short stories, courses, or wha
 
 ### Layouts
 
-**al-folio** comes with stylish layouts for pages and blog posts.
+**home** comes with stylish layouts for pages and blog posts.
 
 #### The iconic style of Distill
 
 The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
 
-[![Distill Preview](assets/img/readme_preview/distill.png)](https://alshedivat.github.io/al-folio/blog/2021/distill/)
+[![Distill Preview](assets/img/readme_preview/distill.png)](https://allisonfranco.github.io/home/blog/2021/distill/)
 
-For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2021/distill/).
+For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://allisonfranco.github.io/home/blog/2021/distill/).
 
 #### Full support for math & code
 
-**al-folio** supports fast math typesetting through [MathJax](https://www.mathjax.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes). Also supports [mermaid diagrams](https://mermaid-js.github.io/mermaid/#/) and [TikZ figures](https://tikzjax.com/).
+**home** supports fast math typesetting through [MathJax](https://www.mathjax.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes). Also supports [mermaid diagrams](https://mermaid-js.github.io/mermaid/#/) and [TikZ figures](https://tikzjax.com/).
 
 <p align="center">
-<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="assets/img/readme_preview/math.png" width=400></a>
-<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="assets/img/readme_preview/code.png" width=400></a>
+<a href="https://allisonfranco.github.io/home/blog/2015/math/" target="_blank"><img src="assets/img/readme_preview/math.png" width=400></a>
+<a href="https://allisonfranco.github.io/home/blog/2015/code/" target="_blank"><img src="assets/img/readme_preview/code.png" width=400></a>
 </p>
 
 #### Photos, Audio, Video and more
 
-Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/). Easily create beautiful grids within your blog posts and project pages, also with support for [video](https://alshedivat.github.io/al-folio/blog/2023/videos/) and [audio](https://alshedivat.github.io/al-folio/blog/2023/audios/) embeds:
+Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/). Easily create beautiful grids within your blog posts and project pages, also with support for [video](https://allisonfranco.github.io/home/blog/2023/videos/) and [audio](https://allisonfranco.github.io/home/blog/2023/audios/) embeds:
 
 <p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/photos-screenshot.png" width="75%">
+  <a href="https://allisonfranco.github.io/home/projects/1_project/">
+    <img src="https://raw.githubusercontent.com/allisonfranco/home/master/assets/img/photos-screenshot.png" width="75%">
   </a>
 </p>
 
@@ -305,9 +305,9 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
 
 #### GitHub's repositories and user stats
 
-**al-folio** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) to display GitHub repositories and user stats on the `/repositories/` page.
+**home** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) to display GitHub repositories and user stats on the `/repositories/` page.
 
-[![Repositories Preview](assets/img/readme_preview/repositories.png)](https://alshedivat.github.io/al-folio/repositories/)
+[![Repositories Preview](assets/img/readme_preview/repositories.png)](https://allisonfranco.github.io/home/repositories/)
 
 Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories to the `/repositories/` page.
 
@@ -355,7 +355,7 @@ A variety of beautiful theme colors have been selected for you to choose from. T
 
 #### Social media previews
 
-**al-folio** supports preview images on social media. To enable this functionality you will need to set `serve_og_meta` to `true` in your [_config.yml](_config.yml). Once you have done so, all your site's pages will include Open Graph data in the HTML head element.
+**home** supports preview images on social media. To enable this functionality you will need to set `serve_og_meta` to `true` in your [_config.yml](_config.yml). Once you have done so, all your site's pages will include Open Graph data in the HTML head element.
 
 You will then need to configure what image to display in your site's social media previews. This can be configured on a per-page basis, by setting the `og_image` page variable. If for an individual page this variable is not set, then the theme will fall back to a site-wide `og_image` variable, configurable in your [_config.yml](_config.yml). In both the page-specific and site-wide cases, the `og_image` variable needs to hold the URL for the image you wish to display in social media previews.
 
@@ -377,7 +377,7 @@ For frequently asked questions, please refer to [FAQ.md](FAQ.md).
 
 ## Contributing
 
-Contributions to al-folio are very welcome! Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
+Contributions to home are very welcome! Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
 If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`. For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
 
@@ -391,7 +391,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://maruan.alshedivat.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://maruan.allisonfranco.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://rohandebsarkar.github.io"><img src="https://avatars.githubusercontent.com/u/50144004?v=4" width="100px;" alt=""/><br /><sub><b>Rohan Deb Sarkar</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://amirpourmand.ir"><img src="https://avatars.githubusercontent.com/u/32064808?v=4" width="100px;" alt=""/><br /><sub><b>Amir Pourmand</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://george-gca.github.io/"><img src="https://avatars.githubusercontent.com/u/31376482?v=4" width="100px;" alt=""/><br /><sub><b>George</b></sub></a></td>
@@ -407,11 +407,11 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 ### All Contributors
 
 <a href="https://contrib.rocks">
-  <img src="https://contrib.rocks/image?repo=alshedivat/al-folio" />
+  <img src="https://contrib.rocks/image?repo=allisonfranco/home" />
 </a>
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
+The theme is available as open source under the terms of the [MIT License](https://github.com/allisonfranco/home/blob/master/LICENSE).
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
+Originally, **home** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
